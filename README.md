@@ -106,7 +106,7 @@ Data preparation → Spatial analysis → Regression modelling → GWR → Prior
 
 The code associated with this repository is archived at:
 
-👉 https://doi.org/XXXXX  *(to be updated after Zenodo upload)*
+👉 https://doi.org/10.5281/zenodo.19183653
 
 ---
 
